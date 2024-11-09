@@ -6,3 +6,4 @@ Este repositório documenta meus estudos sobre a plataforma Azure, explorando co
 
 - [Computação em Nuvem](./topicos/README-computacao-em-nuvem.md)
 - [Benefícios da Nuvem](./topicos/README-beneficios-da-nuvem.md)
+- [Modelos de Serviço](./topicos/README-modelos-de-servico.md)
